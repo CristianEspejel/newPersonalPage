@@ -8,7 +8,7 @@ const Home = () => {
       <>
       <div className="container mx-auto flex flex-col lg:flex-row justify-center mt-32">
         <div className="lg:w-1/2 pr-4 flex items-center mb-8 lg:mb-0 "> 
-          <div className="text-center lg:text-left"> {/* Añadida lg:text-left */}
+          <div className="text-center lg:text-left">
             <h1 className="text-2xl lg:text-3xl xl:text-4xl font-bold mb-2">
               <span className='name-maquina'>Hola, soy Cris </span>
             </h1>
@@ -33,8 +33,6 @@ const Home = () => {
           Me apasiona el aprendizaje continuo y la resolución creativa de problemas. Estoy emocionado por contribuir al mundo del desarrollo Full Stack y llevar mi conjunto de habilidades a nuevos desafíos. ¡Listo para ser parte de equipos dinámicos y proyectos innovadores!
         </p>
       </section>
-
-
 
       <section className='flex flex-col items-center lg:flex-col lg:justify-center mx-2'>
         <h2 className="text-2xl font-bold mb-4 lg:mb-0 lg:mr-4 text-center">Mi stack</h2>
