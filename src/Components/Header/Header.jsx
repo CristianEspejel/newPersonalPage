@@ -26,6 +26,9 @@ const Header = () => {
                 <a href="#" className="text-sm font-semibold leading-6 text-turquesa">Portafolio</a>
                 <a href="#" className="text-sm font-semibold leading-6 text-turquesa">Contacto</a>
             </div>
+            <div>
+                <a href="#" className="inline-block text-sm px-4 py-2 leading-none border rounded text-turquesa border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
+            </div>
             <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" className="-m-1.5 p-1.5">
                 <img className="h-11 w-auto" src={dark} alt />
