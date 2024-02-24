@@ -7,8 +7,8 @@ const Home = () => {
     return (
       <>
       <div className="container mx-auto flex flex-col lg:flex-row justify-center mt-32">
-        <div className="lg:w-1/2 pr-4 flex items-center mb-8 lg:mb-0 "> 
-          <div className="text-center lg:text-left">
+        <div className="lg:w-1/2  flex items-center mb-8 lg:mb-0 md:flex justify-center"> 
+          <div className="text-center lg:text-left md:text-center">
             <h1 className="text-2xl lg:text-3xl xl:text-4xl font-bold mb-2">
               <span className='name-maquina'>Hola, soy Cris </span>
             </h1>
@@ -47,11 +47,9 @@ const Home = () => {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg"className="w-16 h-16 m-2" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" className="w-16 h-16 m-2"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" className="w-16 h-16 m-2"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" className="w-16 h-16 m-2"/>
@@ -60,14 +58,12 @@ const Home = () => {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" className="w-16 h-16 m-2"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" className="w-16 h-16 m-2"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" className="w-16 h-16 m-2"/>
         </div>
       </section>
+      
     </>
-    
-    
     );
 }
 
