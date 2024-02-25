@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "title": "Multipisos y Azulejos",
+     "description": "Diseño y desarrollo de una página web para Multipisos y Azulejos, utilizando React, JavaScript, Sass y Bootstrap. Integración de funcionalidades con Firebase para una experiencia de usuario completa y dinámica",
+      "image": "./assets/multipisos.png",
+      "tags": ["React", "JavaScript", "Sass", "Bootstrap", "Firebase"],
+      "url": "https://multipisosyazulejos.com/"
+    },
+    {
+      "id": 2,
+      "title": "Proyecto 2",
+      "description": "Descripción del Proyecto 2",
+      "image": "https://via.placeholder.com/100x50",
+      "tags": ["Node.js", "Express", "MongoDB"]
+    },
+    {
+      "id": 3,
+      "title": "Proyecto 3",
+      "description": "Descripción del Proyecto 3",
+      "image": "https://via.placeholder.com/100x50",
+      "tags": ["Python", "Django", "PostgreSQL"]
+    },
+    {
+      "id": 4,
+      "title": "P",
+      "description": "Descripción del Proyecto 4",
+      "image": "https://via.placeholder.com/100x50",
+      "tags": ["Vue.js", "Firebase"]
+    },
+    {
+      "id": 5,
+      "title": "Proyecto 5",
+      "description": "Descripción del Proyecto 5",
+      "image": "https://via.placeholder.com/100x50",
+      "tags": ["Angular", "TypeScript", "Firebase"]
+    },
+    {
+      "id": 6,
+      "title": "Proyecto 6",
+      "description": "Descripción del Proyecto 6",
+      "image": "https://via.placeholder.com/100x50",
+      "tags": ["HTML", "CSS", "Sass"]
+    }
+  ]
+  
